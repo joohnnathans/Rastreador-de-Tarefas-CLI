@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jonathan.cesar\\OneDrive - Imagem Geosistemas e Comercio LTDA\\Documentos\\Jonathan\\Cursos\\Repos\\Rastreador-de-Tarefas-CLI\\RastreadorTarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A016AD-3BF0-4D27-AE93-D51EF890D3E1}|RastreadorTarefas.csproj|c:\\users\\jonathan.cesar\\onedrive - imagem geosistemas e comercio ltda\\documentos\\jonathan\\cursos\\repos\\rastreador-de-tarefas-cli\\rastreadortarefas\\tasktracker.application\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A016AD-3BF0-4D27-AE93-D51EF890D3E1}|RastreadorTarefas.csproj|solutionrelative:tasktracker.application\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A016AD-3BF0-4D27-AE93-D51EF890D3E1}|RastreadorTarefas.csproj|c:\\users\\jonathan.cesar\\onedrive - imagem geosistemas e comercio ltda\\documentos\\jonathan\\cursos\\repos\\rastreador-de-tarefas-cli\\rastreadortarefas\\tasktracker.domain\\tarefaitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A016AD-3BF0-4D27-AE93-D51EF890D3E1}|RastreadorTarefas.csproj|solutionrelative:tasktracker.domain\\tarefaitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A016AD-3BF0-4D27-AE93-D51EF890D3E1}|RastreadorTarefas.csproj|c:\\users\\jonathan.cesar\\onedrive - imagem geosistemas e comercio ltda\\documentos\\jonathan\\cursos\\repos\\rastreador-de-tarefas-cli\\rastreadortarefas\\tasktracker.domain\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A016AD-3BF0-4D27-AE93-D51EF890D3E1}|RastreadorTarefas.csproj|solutionrelative:tasktracker.domain\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A016AD-3BF0-4D27-AE93-D51EF890D3E1}|RastreadorTarefas.csproj|c:\\users\\jonathan.cesar\\onedrive - imagem geosistemas e comercio ltda\\documentos\\jonathan\\cursos\\repos\\rastreador-de-tarefas-cli\\rastreadortarefas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A016AD-3BF0-4D27-AE93-D51EF890D3E1}|RastreadorTarefas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A016AD-3BF0-4D27-AE93-D51EF890D3E1}|RastreadorTarefas.csproj|c:\\users\\jonathan.cesar\\onedrive - imagem geosistemas e comercio ltda\\documentos\\jonathan\\cursos\\repos\\rastreador-de-tarefas-cli\\rastreadortarefas\\rastreadortarefas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5A016AD-3BF0-4D27-AE93-D51EF890D3E1}|RastreadorTarefas.csproj|solutionrelative:rastreadortarefas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITaskRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jonathan.cesar\\OneDrive - Imagem Geosistemas e Comercio LTDA\\Documentos\\Jonathan\\Cursos\\Repos\\Rastreador-de-Tarefas-CLI\\RastreadorTarefas\\TaskTracker.Application\\ITaskRepository.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Application\\ITaskRepository.cs",
+              "ToolTip": "C:\\Users\\jonathan.cesar\\OneDrive - Imagem Geosistemas e Comercio LTDA\\Documentos\\Jonathan\\Cursos\\Repos\\Rastreador-de-Tarefas-CLI\\RastreadorTarefas\\TaskTracker.Application\\ITaskRepository.cs",
+              "RelativeToolTip": "TaskTracker.Application\\ITaskRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T23:13:19.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\jonathan.cesar\\OneDrive - Imagem Geosistemas e Comercio LTDA\\Documentos\\Jonathan\\Cursos\\Repos\\Rastreador-de-Tarefas-CLI\\RastreadorTarefas\\TaskTracker.Domain\\Enum.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\Enum.cs",
+              "ToolTip": "C:\\Users\\jonathan.cesar\\OneDrive - Imagem Geosistemas e Comercio LTDA\\Documentos\\Jonathan\\Cursos\\Repos\\Rastreador-de-Tarefas-CLI\\RastreadorTarefas\\TaskTracker.Domain\\Enum.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\Enum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T23:11:55.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TarefaItem.cs",
+              "DocumentMoniker": "C:\\Users\\jonathan.cesar\\OneDrive - Imagem Geosistemas e Comercio LTDA\\Documentos\\Jonathan\\Cursos\\Repos\\Rastreador-de-Tarefas-CLI\\RastreadorTarefas\\TaskTracker.Domain\\TarefaItem.cs",
+              "RelativeDocumentMoniker": "TaskTracker.Domain\\TarefaItem.cs",
+              "ToolTip": "C:\\Users\\jonathan.cesar\\OneDrive - Imagem Geosistemas e Comercio LTDA\\Documentos\\Jonathan\\Cursos\\Repos\\Rastreador-de-Tarefas-CLI\\RastreadorTarefas\\TaskTracker.Domain\\TarefaItem.cs",
+              "RelativeToolTip": "TaskTracker.Domain\\TarefaItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T23:06:34.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RastreadorTarefas",
+              "DocumentMoniker": "C:\\Users\\jonathan.cesar\\OneDrive - Imagem Geosistemas e Comercio LTDA\\Documentos\\Jonathan\\Cursos\\Repos\\Rastreador-de-Tarefas-CLI\\RastreadorTarefas\\RastreadorTarefas.csproj",
+              "RelativeDocumentMoniker": "RastreadorTarefas.csproj",
+              "ToolTip": "C:\\Users\\jonathan.cesar\\OneDrive - Imagem Geosistemas e Comercio LTDA\\Documentos\\Jonathan\\Cursos\\Repos\\Rastreador-de-Tarefas-CLI\\RastreadorTarefas\\RastreadorTarefas.csproj",
+              "RelativeToolTip": "RastreadorTarefas.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T23:02:24.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jonathan.cesar\\OneDrive - Imagem Geosistemas e Comercio LTDA\\Documentos\\Jonathan\\Cursos\\Repos\\Rastreador-de-Tarefas-CLI\\RastreadorTarefas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jonathan.cesar\\OneDrive - Imagem Geosistemas e Comercio LTDA\\Documentos\\Jonathan\\Cursos\\Repos\\Rastreador-de-Tarefas-CLI\\RastreadorTarefas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:58:58.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

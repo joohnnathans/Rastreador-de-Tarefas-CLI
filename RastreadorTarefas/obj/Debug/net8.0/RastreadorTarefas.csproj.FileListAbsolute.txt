@@ -1,0 +1,15 @@
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\bin\Debug\net8.0\RastreadorTarefas.exe
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\bin\Debug\net8.0\RastreadorTarefas.deps.json
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\bin\Debug\net8.0\RastreadorTarefas.runtimeconfig.json
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\bin\Debug\net8.0\RastreadorTarefas.dll
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\bin\Debug\net8.0\RastreadorTarefas.pdb
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\obj\Debug\net8.0\RastreadorTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\obj\Debug\net8.0\RastreadorTarefas.AssemblyInfoInputs.cache
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\obj\Debug\net8.0\RastreadorTarefas.AssemblyInfo.cs
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\obj\Debug\net8.0\RastreadorTarefas.csproj.CoreCompileInputs.cache
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\obj\Debug\net8.0\RastreadorTarefas.sourcelink.json
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\obj\Debug\net8.0\RastreadorTarefas.dll
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\obj\Debug\net8.0\refint\RastreadorTarefas.dll
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\obj\Debug\net8.0\RastreadorTarefas.pdb
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\obj\Debug\net8.0\RastreadorTarefas.genruntimeconfig.cache
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\obj\Debug\net8.0\ref\RastreadorTarefas.dll
