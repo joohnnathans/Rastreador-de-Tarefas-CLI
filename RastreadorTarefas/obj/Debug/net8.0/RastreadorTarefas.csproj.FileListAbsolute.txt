@@ -13,3 +13,16 @@ C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos
 C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\obj\Debug\net8.0\RastreadorTarefas.pdb
 C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\obj\Debug\net8.0\RastreadorTarefas.genruntimeconfig.cache
 C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\obj\Debug\net8.0\ref\RastreadorTarefas.dll
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\obj\Debug\net8.0\RastreadorTarefas.csproj.AssemblyReference.cache
+C:\Users\jonathan.cesar\OneDrive - Imagem Geosistemas e Comercio LTDA\Documentos\Jonathan\Cursos\Repos\Rastreador-de-Tarefas-CLI\RastreadorTarefas\obj\Debug\net8.0\Rastread.0B220132.Up2Date

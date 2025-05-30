@@ -9,8 +9,11 @@
 
   <ItemGroup>
     <Folder Include="TaskTracker.Tests\" />
-    <Folder Include="TaskTracker.Infrastruture\" />
     <Folder Include="TaskTracker.CLI\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.5" />
   </ItemGroup>
 
 </Project>

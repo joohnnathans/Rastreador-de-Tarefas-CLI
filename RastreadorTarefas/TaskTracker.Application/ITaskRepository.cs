@@ -15,12 +15,5 @@ namespace RastreadorTarefas.TaskTracker.Application
         Task DeleteAsync(TarefaItem tarefa);
         Task DeleteAll();
 
-        public enum Status{
-    Em_aberto = 1,
-    Em_andamento = 2,
-    Concluida = 3
-}
-
-
     }
 }

@@ -6,13 +6,18 @@ using System.Threading.Tasks;
 
 namespace RastreadorTarefas.TaskTracker.Domain
 {
-    class TarefaItem
+    public class TarefaItem
     {
-        public long Id;
-        public string Descricao;
-        public enum Status;
+        public long Id { get; set; }
+        public string Descricao { get; set; }
+        public Enums.StatusTarefa statusTarefa;
         public DateTime CriadoEm;
 
 
+        public TarefaItem()
+        {
+            this.CriadoEm = DateTime.Now;
+            this.statusTarefa = Enums.StatusTarefa.Em_andamento;
+        }
     }
 }

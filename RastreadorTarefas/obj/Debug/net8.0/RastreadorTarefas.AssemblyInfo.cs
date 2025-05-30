@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RastreadorTarefas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b3d387a63e684e7cd52b9d2bf1ba2455e8ece84")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de3fc51aa6536acc3b8875f120c6107ffe742904")]
 [assembly: System.Reflection.AssemblyProductAttribute("RastreadorTarefas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RastreadorTarefas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

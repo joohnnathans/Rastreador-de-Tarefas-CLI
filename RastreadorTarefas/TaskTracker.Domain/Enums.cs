@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace RastreadorTarefas.TaskTracker.Domain
 {
-    class Enum
+    public class Enums
     {
 
-        public enum Status
+        public enum StatusTarefa
         {
             Em_aberto = 1,
             Em_andamento = 2,
